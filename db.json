@@ -44,6 +44,129 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 677766,
+      "user": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "title": "Working?",
+      "description": "oijo",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "category": "education"
+    },
+    {
+      "id": 502601,
+      "user": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "title": "ygu",
+      "description": "uyg",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "category": "food"
+    },
+    {
+      "id": 4704967,
+      "user": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "title": "reifjo",
+      "description": "oeijfeoj",
+      "location": "iuhhii",
+      "date": "2020-05-08T13:55:00.000Z",
+      "time": "11:00",
+      "attendees": [],
+      "category": "animal welfare"
+    },
+    {
+      "id": 45827097,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 6707766,
+      "user": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "title": "Working?",
+      "description": "oijo",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "category": "education"
+    },
+    {
+      "id": 5082601,
+      "user": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "title": "ygu",
+      "description": "uyg",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "category": "food"
+    },
+    {
+      "id": 4749967,
+      "user": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adal Jahr"
+      },
+      "title": "reifjo",
+      "description": "oeijfeoj",
+      "location": "iuhhii",
+      "date": "2020-05-08T13:55:00.000Z",
+      "time": "11:00",
+      "attendees": [],
+      "category": "animal welfare"
     }
   ]
 }
