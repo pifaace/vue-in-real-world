@@ -17,7 +17,7 @@ export default {
     return {
       events: []
     }
-  }, 
+  },
   created() {
     EventService.getEvents()
       .then(response => {
